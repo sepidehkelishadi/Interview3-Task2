@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/guava-r07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/json-20080701.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/selenium-common-2.0b1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib/selenium-remote-common-2.0b1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

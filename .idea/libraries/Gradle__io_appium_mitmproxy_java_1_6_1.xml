@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.appium:mitmproxy-java:1.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.appium/mitmproxy-java/1.6.1/34aa21486aa11aa501bbf52026e40453a1586df6/mitmproxy-java-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.appium/mitmproxy-java/1.6.1/1f95f08999d6ff1701ae01f6d1795c4ea27f2319/mitmproxy-java-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
